@@ -16,7 +16,7 @@ conda env create -f requirements.yml
 conda activate antlr
 ```
 
-### MNSIT dataset
+### MNIST dataset
 
 Will be automatically downloaded when needed.
 
