@@ -1,6 +1,6 @@
 # ANTLR
 
-This repository is the official implementation of Unifying Activation- and Timing-based Learning Rules for Spiking Neural Networks (NeurIPS 2020) [(preprint link)](https://arxiv.org/pdf/2006.02642.pdf).
+This repository is the official implementation of [Unifying Activation- and Timing-based Learning Rules for Spiking Neural Networks](https://papers.nips.cc/paper/2020/file/e2e5096d574976e8f115a8f1e0ffb52b-Paper.pdf) (NeurIPS 2020)
 
 
 ## Requirements
